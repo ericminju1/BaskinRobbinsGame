@@ -1,2 +1,2 @@
-# BaskinRobbinsGame
+# Baskin Robbins Game
 .
